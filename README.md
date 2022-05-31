@@ -6,6 +6,6 @@
 
 Born and raised in Barcelona, currently residing in SoCal. Coding full time and enjoying the sun and waves part time
 
-Skills: JAVASCRIPT / REACT / REDUX / EXPRESS / HTML / CSS / PYTHON /FLASK / POSTGRES / 
+Skills: JAVASCRIPT / REACT / REDUX / EXPRESS / HTML / CSS / PYTHON /FLASK / POSTGRES /
 
-- 🔭 I’m currently working on and tweaking my Ocean themed Instagram clone Mare Nostrum www.mare-nostrum.herokuapp.com
+- I’m currently working on and tweaking my Ocean themed Instagram clone Mare Nostrum www.mare-nostrum.herokuapp.com
